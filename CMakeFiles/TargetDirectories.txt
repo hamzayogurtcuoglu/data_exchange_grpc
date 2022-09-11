@@ -1,0 +1,6 @@
+/home/hamza/Desktop/grpc-cpp/grpc/examples/cpp/data_share/CMakeFiles/rebuild_cache.dir
+/home/hamza/Desktop/grpc-cpp/grpc/examples/cpp/data_share/CMakeFiles/edit_cache.dir
+/home/hamza/Desktop/grpc-cpp/grpc/examples/cpp/data_share/CMakeFiles/datashare_test.dir
+/home/hamza/Desktop/grpc-cpp/grpc/examples/cpp/data_share/CMakeFiles/datashare_server.dir
+/home/hamza/Desktop/grpc-cpp/grpc/examples/cpp/data_share/CMakeFiles/datashare_client.dir
+/home/hamza/Desktop/grpc-cpp/grpc/examples/cpp/data_share/CMakeFiles/ds_grpc_proto.dir

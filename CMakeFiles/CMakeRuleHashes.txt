@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+6a7bc7f3db0f63dbc949cc96ad22d3a2 datashare.pb.cc
